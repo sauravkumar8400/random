@@ -1,0 +1,5 @@
+with open('switchgames', 'r') as r: #open the file containing the unsorted list of switch games
+    myfile = open("newswitch", "w")
+    for line in sorted(r): #"sorted()" sorts alphabetically
+        myfile.write(line) #outputs the sorted list to a new file
+
