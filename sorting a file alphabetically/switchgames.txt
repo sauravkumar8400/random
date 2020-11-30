@@ -12,6 +12,7 @@ Ghost Parade = RM100
 Ice Age Scrat’s Nutty Adventure = RM100
 Little Town Hero = RM100
 Umihara Kawase Fresh = RM100
+Xenoblade Chronicles Definitive Edition = RM180
 Ark Survival Evolved = RM110
 Asterix & Obelix XXL 3 Crystal Menhir = RM110
 Atelier Lydie & Suelle The Alchemist And The Mysterious Paintings = RM110
@@ -23,12 +24,12 @@ Romancing Saga 3 = RM110
 Super Neptunia RPG = RM110
 The Princess Guide = RM110
 Vampyr = RM110
-Guacamelee One-Two Punch Collection = RM120
+The Witcher 3 Wild Hunt Complete Edition = RM170
 Super Dragon Ball Heroes World Mission = RM120
 Tsum Tsum Festival = RM130
 Disaster Report = RM150
 Digimon Story Cyber Sleuth Complete Edition = RM170
 Pokemon Mystery Dungeon = RM170
-The Witcher 3 Wild Hunt Complete Edition = RM170
-Xenoblade Chronicles Definitive Edition = RM180
+Guacamelee One-Two Punch Collection = RM120
+
 
